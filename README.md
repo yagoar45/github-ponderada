@@ -94,4 +94,9 @@ Para fazer o push via git, devemos seguir esses passos:
 
 * fazer alguma alteração
 
-* rodar o comando: ```git commit -a -m "<descrição>"```
+* rodar o comando: ```git commit -a -m "<descrição>"``` 
+
+<img src ="./imgs/git-commit.png">
+
+* Verificar o estado do código com o comando ```git status```
+ 
