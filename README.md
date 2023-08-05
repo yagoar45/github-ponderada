@@ -49,3 +49,31 @@ repositório para avaliação da ponderada de programação (semana 1)
 * Por fim, faremos o push na CLI do ```git bash``` por meio desse comando: ```git push --set-upstream origin main```
 
 <img src = "./imgs/push-origin-main .png">
+
+* Finalmente, repositório estará atualizado
+
+<img src = "./imgs/repo-apos-ativ1.png">
+
+
+## Github Edit Code
+
+* Além de ser uma rede social com repositórios git, o github também possui um editor de código. Para fazer isso no README, basta clicar no lápis da tela inicial
+
+<img src ="./imgs/edit-code-github.png">
+
+* Adiconaremos uma mudança simples no readme e depois commitaremos a mudança no próprio github. 
+
+<img src = "./imgs/commit-nativo-github.png">
+
+## Pull from GitHub
+
+* Para trabalhar em um time de desenvolvimento, é importante que todos os membros da equipe estejam atualizados.
+
+* No git, para trazer as alterações mais recentes do código, você utilizar o ```git pull <remote> <branch>```
+
+
+* O ```git pull <remote> <branch>``` é a combinação desses dois comandos: ```fetch``` e  ```merge```
+
+* ```merge``` traz todas as alterações históricas de uma branch/repositório
+
+<img src = "./imgs/fetch.png">
