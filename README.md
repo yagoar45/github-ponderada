@@ -99,4 +99,43 @@ Para fazer o push via git, devemos seguir esses passos:
 <img src ="./imgs/git-commit.png">
 
 * Verificar o estado do código com o comando ```git status```
- 
+
+<img src ="./imgs/git-status.png">
+
+* Por fim, iremos rodar o comando: ```git push```
+
+<img src = "./imgs/git-push.png">
+
+## GitHub Branch
+
+* Para criar uma nova branch no github, vá até o repositório, click em "main", adicione um nome e aperte em: ```Create Branch```
+
+<img src ="./imgs/create-branch.png">
+
+* Agora, mudamos a branch para ```develop```. Essa mudança pode ser verificada ao ver que o "main" alterou para "develop"
+
+<img src ="./imgs/develop.png">
+
+## Pull Branch From GitHub
+
+* agora, atualizaremos o nosso git local com a alteração feita, no caso, a criação da branch develop.
+
+
+* Para fazer a conexão de atualização da branch no github com a local, faremos o checkout da main para a develop e depois rodaremos o comando ```git pull```
+
+<img src = "./imgs/pull-branch.png">
+
+<img src ="./imgs/git-checkout.png">
+
+* Agora, podemos ver que há uma nova branch no git local por meio do comando: ```git branch```
+
+<img src ="./imgs/git-branch.png">
+
+
+## Push a Branch to GitHub
+
+* Agora, faremos o processo inverso: criaremos uma branch no git local e a subiremos para o github.
+
+* Para isso, primeiro, iremos fazer o checkout da branch atual e criaremos outra 
+
+<img src ="./imgs/git-checkout-update-readme.png">
