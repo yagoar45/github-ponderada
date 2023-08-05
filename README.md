@@ -1,6 +1,7 @@
 # github-ponderada
 repositório para avaliação da ponderada de programação (semana 1)
 
+
 ## Introdução
 * Essa atividade servirá como relatório do tutorial git/github da semana 1.
 
@@ -85,4 +86,12 @@ repositório para avaliação da ponderada de programação (semana 1)
 
 * Caso você queira somente atualizar o repositório, sem passar por essas etapas, use o  ```git pull <remote> <branch>```
 
+<img src = "./imgs/pull-origin-main.png">
 
+## Push to GitHub
+
+Para fazer o push via git, devemos seguir esses passos:
+
+* fazer alguma alteração
+
+* rodar o comando: ```git commit -a -m "<descrição>"```
