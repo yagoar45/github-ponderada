@@ -1,6 +1,5 @@
 # github-ponderada
 repositório para avaliação da ponderada de programação (semana 1)
-Mudança aqui: com intuito de aprender mais sobre git e github
 
 ## Introdução
 * Essa atividade servirá como relatório do tutorial git/github da semana 1.
