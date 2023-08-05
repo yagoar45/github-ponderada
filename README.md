@@ -139,3 +139,21 @@ Para fazer o push via git, devemos seguir esses passos:
 * Para isso, primeiro, iremos fazer o checkout da branch atual e criaremos outra 
 
 <img src ="./imgs/git-checkout-update-readme.png">
+
+* Agora, faremos as devidas alterações e logo após, o processo tradicional: adicionar, commitar e fazer o push
+
+<img src ="./imgs/final1.png">
+
+* Após isso, a branch e a sua atualização já estará no github.
+
+* Por fim, abriremos um pull request e aceitaremos o pedido de merge
+
+<img src ="./imgs/pr-merge.png">
+
+* Para evitar que o repositório fique muito complexo, iremos deletar essa branch recem criada, já que o seu código já foi mergiado 
+
+<img src = "./imgs/delete-branch.png">
+
+* No final, teremos isso na tela principal:
+
+<img src= "./imgs/tela-final.png">
