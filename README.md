@@ -75,6 +75,15 @@ Mudança aqui: com intuito de aprender mais sobre git e github
 
 * O ```git pull <remote> <branch>``` é a combinação desses dois comandos: ```fetch``` e  ```merge```
 
-* ```merge``` traz todas as alterações históricas de uma branch/repositório
+* ```fetch``` traz todas as alterações históricas de uma branch/repositório
 
 <img src = "./imgs/fetch.png">
+
+* ```merge``` combina as branchs passadas como parâmetro na linha de comando 
+
+<img src = "./imgs/merge.png">
+
+
+* Caso você queira somente atualizar o repositório, sem passar por essas etapas, use o  ```git pull <remote> <branch>```
+
+
