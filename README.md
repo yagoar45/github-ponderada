@@ -99,4 +99,6 @@ Para fazer o push via git, devemos seguir esses passos:
 <img src ="./imgs/git-commit.png">
 
 * Verificar o estado do código com o comando ```git status```
+
+
  
